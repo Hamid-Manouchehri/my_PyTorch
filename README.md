@@ -43,7 +43,7 @@ Creating the conda env and installing all the python packages:
 ```
 conda env create -f environment.yml
 ```
-Make sure you update the conda env after installing any furthr packages:
+Make sure you update the conda env after installing any further packages:
 ```
 conda update --all
 ```
